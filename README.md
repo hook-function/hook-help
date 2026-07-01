@@ -19,3 +19,5 @@
 
 ## 3. How to i find best and better script?
 > Answer is directly from website. https://scriptblox.com, https://rscripts.net, https://haxhell.com/, https://robloxscripts.com/
+
+# MIT License: [MIT](https://github.com/hook-function/hook-help/blob/main/LICENSE)
