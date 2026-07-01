@@ -5,7 +5,6 @@
 > Answer is, Join my discord server for trusted exploit server, if you wont trust me, try https://weao.xyz or https://inject.today or https://voxlis.net or https://pulsery.gg
 
 ## 2. Where do i learn roblox lua scripting or exploit scripting?
-> Here guide below:
 **Luau Learning:**
 1. Basic Luau Learning: https://luau.org and https://create.roblox.com/docs and https://devforum.roblox.com/
 2. Exploit Learning: https://docs.voltbz.net and https://synapsexdocs.github.io/ and https://docs.potassium.pro/api-reference/
