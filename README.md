@@ -33,11 +33,11 @@
 3. Get Roblox Executor MVP Server - https://github.com/notpoiu/roblox-executor-mcp/
 
 ## 5. How to i connect MCP Server to my executor?
-### Get Started:
-**1. Tutorial**
 [![roblox-executor-mcp installation guide](http://img.youtube.com/vi/Tcy5RNf1TRc/0.jpg)](https://youtube.com/watch?v=Tcy5RNf1TRc)
-**2. Quick Start**
-Clone the server
+
+### Get Started
+
+**1. Clone the server**
 
 ```bash
 git clone https://github.com/notpoiu/roblox-executor-mcp.git
@@ -79,7 +79,7 @@ npm run update
 
 The update command can stop currently running MCP server processes, optionally pull latest changes, and always rebuilds the server.
 
-3. Connect from Roblox
+**3. Connect from Roblox**
 
 The installer prints this for you. Put it in your executor or Auto Execute:
 
