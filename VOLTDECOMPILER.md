@@ -69,4 +69,7 @@ getgenv().decompile = function(scr)
     return res.Body
 end
 ```
-**Credit by Olemad**
+
+**7. Rejoin Game to get Decompiler done**
+
+## **Credit by Olemad**
