@@ -1,11 +1,17 @@
 # Volt Decompiler Guide:
 ## Get Started:
 **1. Open Volt Executor**
+
 **2. Open Editor**
+
 **3. Find AutoExecute and go to explorer**
+
 **4. Right click, Click New and Click Text Document**
+
 **5. Name it decompiler.luau**
+
 **6. Paste the code in decompiler.luau**
+
 ```lua
 assert(getscriptbytecode, "exploit does not support getscriptbytecode.")
 
