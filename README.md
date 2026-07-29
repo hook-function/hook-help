@@ -8,7 +8,7 @@
 **Luau Learning:**
 1. Basic Luau Learning: https://luau.org and https://create.roblox.com/docs and https://devforum.roblox.com/
 2. Exploit Learning: https://docs.voltbz.net and https://synapsexdocs.github.io/ and https://docs.potassium.pro/api-reference/
-3. Assistiants: https://deepseek.com and https://v3rm.net and https://reddit.com and https://claude.ai
+3. Assistiants: https://v3rm.net and https://reddit.com and https://unknowncheats.me
 
 **General:**
 1. Github - https://github.com - reason is the best thing you can code for first time, like loadstring, basic things.
